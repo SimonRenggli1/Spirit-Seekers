@@ -11,7 +11,6 @@ Phantom Pursuit is a multiplayer co-op horror game that can be played by 1-4 pla
 - Replayable, with randomized ghost behaviors, and different game modes.
 
 ## Requirements
-
 ### Recomended:
 - Memory: 8 GB
 - Graphics Card: NVIDIA GeForce GTX 970
