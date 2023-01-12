@@ -25,10 +25,7 @@ Phantom Pursuit is a multiplayer co-op horror game that can be played by 1-4 pla
 - OS: Windows 10 64Bit
 
 ## Installation
-1. Clone or download this repository
-2. Open the project in Unity
-3. Import the HFPS asset pack
-4. Build and run the game
+- Phantom Pursuit cannot be downloaded at the moment.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
