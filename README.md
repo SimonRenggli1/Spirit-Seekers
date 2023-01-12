@@ -22,7 +22,7 @@ Das Spiel spielt in einer Welt, in der Geister in Wohnhäusern und Wohnungen spu
 - Eine Option zur Anpassung der Schwierigkeit für unterschiedliche Spielertypen.
 - Eine Möglichkeit, den Fortschritt der Spieler zu speichern, um ihre Fortschritte über mehrere Runden hinweg zu verfolgen.
 
-## Requirements
+# Requirements
 ### Recomended:
 - Memory: 8 GB
 - Graphics Card: NVIDIA GeForce GTX 970
@@ -36,8 +36,8 @@ Das Spiel spielt in einer Welt, in der Geister in Wohnhäusern und Wohnungen spu
 - File Size: 16 GB
 - OS: Windows 10 64Bit
 
-## Installation
+# Installation
 - Phantom Pursuit cannot be downloaded at the moment.
 
-## License
+# License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
