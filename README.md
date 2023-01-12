@@ -1,6 +1,6 @@
 ![PhantomPursuitBanner1](https://user-images.githubusercontent.com/96227533/212103173-d694ac2d-ab43-483a-b0d6-edb885807568.png)
 
-
+# Phantom Pursuit
 Phantom Pursuit is a multiplayer co-op horror game that can be played by 1-4 players. The game is set in various haunted locations, such as abandoned houses or flats. Each location will have its own unique layout, puzzles, and challenges for players to overcome.
 
 # Thema:
