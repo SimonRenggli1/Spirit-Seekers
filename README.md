@@ -1,6 +1,6 @@
 # Phantom Pursuit
 
-Phantom Pursuit is a multiplayer co-op horror game that can be played by 1-4 players. The game is set in various haunted locations, such as abandoned houses, cemeteries, and asylums. Each location will have its own unique layout, puzzles, and challenges for players to overcome.
+Phantom Pursuit is a multiplayer co-op horror game that can be played by 1-4 players. The game is set in various haunted locations, such as abandoned houses or flats. Each location will have its own unique layout, puzzles, and challenges for players to overcome.
 
 ### Features
 - Multiple different types of ghosts, each with their own unique appearance, behavior, and abilities. 
@@ -8,11 +8,22 @@ Phantom Pursuit is a multiplayer co-op horror game that can be played by 1-4 pla
 - Players must work together to gather evidence, solve puzzles, and capture the ghosts before they can escape.
 - Scoring system that records the best scores and the best hunting teams.
 - Day and night cycle, which affects the gameplay and the behavior of the ghosts. 
-- Replayable, with procedurally generated levels, randomized ghost behaviors, and different game modes.
+- Replayable, with randomized ghost behaviors, and different game modes.
 
 ### Requirements
-- Unity (version x.x or higher)
-- HFPS (Horror FPS) Asset Pack
+## Minimum:
+- Memory: 8 GB
+- Graphics Card: AMD Radeon R9 290 / 390
+- CPU: AMD FX-8350
+- File Size: 16 GB
+- OS: Windows 10 64Bit
+
+## Recomended:
+- Memory: 8 GB
+- Graphics Card: NVIDIA GeForce GTX 970
+- CPU: Intel Core i5-4590
+- File Size: 16 GB
+- OS: Windows 10 64Bit
 
 ### Installation
 1. Clone or download this repository
