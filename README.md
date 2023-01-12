@@ -2,10 +2,10 @@
 
 Phantom Pursuit is a multiplayer co-op horror game that can be played by 1-4 players. The game is set in various haunted locations, such as abandoned houses or flats. Each location will have its own unique layout, puzzles, and challenges for players to overcome.
 
-#Thema:#
+# Thema:
 Das Spiel spielt in einer Welt, in der Geister in Wohnhäusern und Wohnungen spuken. Die Spieler übernehmen die Rolle von Geisterjägern, die damit beauftragt sind, diese Geister zu fangen und sie in ihre Welt zurückzuschicken.
 
-#Gameplay-Mechaniken:#
+# Gameplay-Mechaniken:
 
 - Der Spieler hat ein begrenztes Inventar von nur 2 Gegenständen plus einer Taschenlampe, die er tragen und verwenden kann.
 - Die Spieler müssen sorgfältig entscheiden, welche Ausrüstung sie in ihr begrenztes Inventar aufnehmen, basierend auf ihren bevorzugten Fähigkeiten und der geplanten Strategie.
@@ -14,7 +14,7 @@ Das Spiel spielt in einer Welt, in der Geister in Wohnhäusern und Wohnungen spu
 - Die Spieler müssen zusammenarbeiten, um Geister erfolgreich zu fangen und einzusortieren.
 - Die Geister haben unterschiedliche Verhaltensmuster und Schwierigkeitsgrade, die es den Spielern erschweren, sie erfolgreich zu fangen.
 
-#Funktionen:#
+# Funktionen:
 - Mehrere Orte wie Häuser oder Wohnungen, die von den Spielern erkundet werden können und die zufällig generiert werden.
 - Keine Karte, die die Spieler durch die Umgebung navigieren lässt, sondern die Spieler müssen sich auf ihre Umgebung und Orientierungsfähigkeiten verlassen.
 - Ein begrenztes Inventar-System, mit dem die Spieler nur eine begrenzte Anzahl von Gegenständen tragen und verwenden können.
