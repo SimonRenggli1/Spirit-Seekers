@@ -11,17 +11,17 @@ Phantom Pursuit is a multiplayer co-op horror game that can be played by 1-4 pla
 - Replayable, with randomized ghost behaviors, and different game modes.
 
 ## Requirements
-### Minimum:
-- Memory: 8 GB
-- Graphics Card: AMD Radeon R9 290 / 390
-- CPU: AMD FX-8350
-- File Size: 16 GB
-- OS: Windows 10 64Bit
 
 ### Recomended:
 - Memory: 8 GB
 - Graphics Card: NVIDIA GeForce GTX 970
 - CPU: Intel Core i5-4590
+- File Size: 16 GB
+- OS: Windows 10 64Bit
+### Minimum:
+- Memory: 8 GB
+- Graphics Card: AMD Radeon R9 290 / 390
+- CPU: AMD FX-8350
 - File Size: 16 GB
 - OS: Windows 10 64Bit
 
