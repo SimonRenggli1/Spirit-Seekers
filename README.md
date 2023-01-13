@@ -16,7 +16,7 @@ Das Spiel spielt in einer Welt, in der Geister in Wohnhäusern und Wohnungen spu
 - Die Geister haben unterschiedliche Verhaltensmuster und Schwierigkeitsgrade, die es den Spielern erschweren, sie erfolgreich zu fangen.
 
 # Funktionen:
-- Mehrere Orte wie Häuser oder Wohnungen, die von den Spielern erkundet werden können und die zufällig generiert werden.
+- Mehrere Orte wie Häuser oder Wohnungen, die von den Spielern erkundet werden können.
 - Keine Karte, die die Spieler durch die Umgebung navigieren lässt, sondern die Spieler müssen sich auf ihre Umgebung und Orientierungsfähigkeiten verlassen.
 - Ein begrenztes Inventar-System, mit dem die Spieler nur eine begrenzte Anzahl von Gegenständen tragen und verwenden können.
 - Ein Wirtschaftssystem, in dem die Spieler Geld verdienen, indem sie Geister erfolgreich fangen und einsortieren, und das Geld verwenden können, um Ausrüstung und Upgrades zu kaufen.
