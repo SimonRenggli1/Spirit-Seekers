@@ -23,23 +23,23 @@ Das Spiel spielt in einer Welt, in der Geister in Wohnhäusern und Wohnungen spu
 - Eine Option zur Anpassung der Schwierigkeit für unterschiedliche Spielertypen.
 - Eine Möglichkeit, den Fortschritt der Spieler zu speichern, um ihre Fortschritte über mehrere Runden hinweg zu verfolgen.
 
-# Requirements
-### Recomended:
-- Memory: 8 GB
-- Graphics Card: NVIDIA GeForce GTX 970
+# Anforderungen
+### Empfohlen:
+- RAM: 8 GB
+- GPU: NVIDIA GeForce GTX 970
 - CPU: Intel Core i5-4590
-- File Size: 16 GB
+- Speicher: 16 GB
 - OS: Windows 10 64Bit
 ### Minimum:
-- Memory: 8 GB
-- Graphics Card: AMD Radeon R9 290 / 390
+- RAM: 8 GB
+- GPU: AMD Radeon R9 290 / 390
 - CPU: AMD FX-8350
-- File Size: 16 GB
+- Speicher: 16 GB
 - OS: Windows 10 64Bit
 
 # Installation
-- Spirit Seekers cannot be downloaded at the moment.
-- Open Alpha planned on the 30.12.2023
+- Spirit Seekers kann im Moment nicht heruntergeladen werden.
+- Open-Alpha geplant für den 30.12.2023
 
-# License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+# Lizenz
+Dieses Projekt ist unter der MIT-Lizenz lizenziert - siehe die [LICENSE](LICENSE)-Datei für Details
