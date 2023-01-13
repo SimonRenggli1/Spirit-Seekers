@@ -1,7 +1,7 @@
 ![SpiritSeekersBanner2](https://user-images.githubusercontent.com/96227533/212266211-8e3e4efd-9d2a-419b-ac78-d7cf6f902184.png)
 
 # Spirit Seekers
-Phantom Pursuit is a multiplayer co-op horror game that can be played by 1-4 players. The game is set in various haunted locations, such as abandoned houses or flats. Each location will have its own unique layout, puzzles, and challenges for players to overcome.
+Spirit Seekers is a multiplayer co-op horror game that can be played by 1-4 players. The game is set in various haunted locations, such as abandoned houses or flats. Each location will have its own unique layout, puzzles, and challenges for players to overcome.
 
 # Thema:
 Das Spiel spielt in einer Welt, in der Geister in Wohnhäusern und Wohnungen spuken. Die Spieler übernehmen die Rolle von Geisterjägern, die damit beauftragt sind, diese Geister zu fangen und sie in ihre Welt zurückzuschicken.
