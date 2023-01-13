@@ -1,6 +1,6 @@
 ![SpiritSeekersBanner2](https://user-images.githubusercontent.com/96227533/212266211-8e3e4efd-9d2a-419b-ac78-d7cf6f902184.png)
 
-# Phantom Pursuit
+# Spirit Seekers
 Phantom Pursuit is a multiplayer co-op horror game that can be played by 1-4 players. The game is set in various haunted locations, such as abandoned houses or flats. Each location will have its own unique layout, puzzles, and challenges for players to overcome.
 
 # Thema:
@@ -38,7 +38,8 @@ Das Spiel spielt in einer Welt, in der Geister in Wohnhäusern und Wohnungen spu
 - OS: Windows 10 64Bit
 
 # Installation
-- Phantom Pursuit cannot be downloaded at the moment.
+- Spirit Seekers cannot be downloaded at the moment.
+- Open Alpha planned on the 30.12.2023
 
 # License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
